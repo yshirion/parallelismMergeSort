@@ -9,6 +9,6 @@ public class Queue{
     }
 
     public void enqueue(int[] array){
-        poolArrays.add(size, );
+        poolArrays.add(size, array);
     }
 }
